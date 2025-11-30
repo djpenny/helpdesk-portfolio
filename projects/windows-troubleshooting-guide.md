@@ -1,4 +1,4 @@
-# Windows Troubleshooting – Example Case
+# Windows Troubleshooting
 
 ## Issue Reported
 User unable to connect to the internet and applications responding slowly.
