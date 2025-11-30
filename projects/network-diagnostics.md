@@ -1,4 +1,4 @@
-# Network Diagnostics Example
+# Network Diagnostics
 
 ## Tools Used
 - Command Prompt  
